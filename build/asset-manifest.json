@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/aifront-fs/static/js/main.bd66cbf7.js",
+    "index.html": "/aifront-fs/index.html",
+    "main.bd66cbf7.js.map": "/aifront-fs/static/js/main.bd66cbf7.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bd66cbf7.js"
+  ]
+}
